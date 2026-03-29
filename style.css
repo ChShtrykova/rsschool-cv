@@ -37,15 +37,15 @@ h2.section-title {
 }
 
 a {
-  text-decoration: underline; 
-  color: blue;
+  text-decoration: underline; /* по умолчанию подчеркивание */
+  color: blue; /* цвет по умолчанию */
   transition: color 0.3s, text-decoration 0.3s;
 }
 a:hover {
-  text-decoration: none; 
+  text-decoration: none; /* без подчеркивания при наведении */
 }
 a:active {
-  color: red; 
+  color: red; /* красный при нажатии */
 }
 
 .contact-info {
