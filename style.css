@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Пример CSS</title>
+    <style>
+        body { font-family: Arial, sans-serif; }
+        h1 { color: blue; }
+        p { color: green; font-size: 18px; }
+    </style>
+</head>
+<body>
+    <h1>Заголовок синего цвета</h1>
+    <p>Это абзац с зеленым текстом.</p>
+</body>
+</html>
